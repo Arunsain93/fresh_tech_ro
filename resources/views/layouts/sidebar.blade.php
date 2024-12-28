@@ -1,7 +1,6 @@
 
     <div class="menu-btn" style="display:none;">
         <i class="fas fa-bars"></i>
-       
     </div>
     
 
